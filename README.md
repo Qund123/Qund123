@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&width=435&lines=Front-End+Developer;Qund" alt="Typing SVG" /></a>
+
+
+
 # <div align="center">🖥️ My Tech Stacks
 <div align="center">
   
