@@ -27,5 +27,9 @@
 </div>
 
 # <div align="center">👏My Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Qund123&show_icons=true&theme=radical"/></a></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qund123&show_icons=true&theme=radical"/></a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/></a>
+</div>
 </div>
