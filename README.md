@@ -31,4 +31,4 @@
 </div>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradientcolor=61DAFB&height=200&section=footer&text=Hello,%20World!&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&color=61DAFB&height=200&section=footer&text=Hello,%20World!&fontSize=100)
