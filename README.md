@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
-<img src="https://img.shields.io/badge/Photoshop-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black">
+<img src="https://img.shields.io/badge/premiere pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black">
   
   
 
