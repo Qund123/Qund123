@@ -27,7 +27,8 @@
 
 # <div align="center">👏My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qund123&show_icons=true&theme=radical"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qund123&show_icons=true&theme=radical"/>
+  <img src="https://gist.github.com/Qund123/">
 </div>
 </div>
 
