@@ -1,5 +1,3 @@
-
-
 # <div align="center">
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=000000&width=435&lines=Front-End+Developer;Qund" alt="Typing SVG" /></a>
@@ -33,4 +31,4 @@
 </div>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hello,%20World!&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradientcolor=61DAFB&height=200&section=footer&text=Hello,%20World!&fontSize=100)
