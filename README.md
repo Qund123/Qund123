@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hello,%20Wolrd&fontSize=100)
+
 
 # <div align="center">
 <div align="center">
@@ -32,4 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Qund123&show_icons=true&theme=radical"/></a>
 </div>
 </div>
-<!--. -->
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hello,%20Wolrd&fontSize=100)
