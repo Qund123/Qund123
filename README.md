@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Qund123&show_icons=true"/>
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 </div>
 
