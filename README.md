@@ -40,4 +40,3 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hello,%20World!&fontSize=100&animation=fadeIn)
 
 <img src="https://github.com/Qund123/Qund123/blob/main/contributions.svg" />
-
