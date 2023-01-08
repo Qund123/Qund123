@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/premiere pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black">
   
   
-
 </div>
 </div>
 
