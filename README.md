@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/premiere pro-9999FF?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=black">
   
-  
+
 </div>
 </div>
 
